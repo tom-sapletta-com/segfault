@@ -77,10 +77,15 @@ Budowanie w rozproszonym środowisku
 ## Technologia, Metodologia
 
 ### Legacy code
-Praca z kodem zastanym
+Praca z kodem zastanym:
 + przejmowanie starych projektów
 + drobne kosmetyczne frontendu vs zmiana środowiska/architektury
-	
+
+Natywne technologie:
++ javascript
++ bash scripts
++ Definicja w JSON
+
 ### refaktoryzacja
 Reużycie poprzez zmodularyzowane pojedyncze klasy/funkcje
 
@@ -95,30 +100,20 @@ uproszczenie procesów planowania i programowania
 ### Specjalizacja
 Odpowiedzialnosc, single responsibility
 
+### Personalizacja
++ ładowanie treści, mediów, kodu w zalezności od potrzebu użytkownika
 
 
+# Biblioteka vs Framework
 
-
-
-Forma
-• Definicja w JSON do 
-
-
-biblioteka
+Biblioteka
 + bez zależności od innych projektów
 + biblioteka nie narzuca formy, pozostawia wolność
 
-Natywne technologie
-+ javascript
-+ bash scripts
-
-
-Frameworki
 Czym różni się sposób działania od popularnych framework-ów?
 + nastawienie na zbudowanie aplikacji i jej publikację
-+ ładowanie mediów
-+ abstrakcja / specjalizacja?
-+ zbudowanie aplikacji i jej wydanie
++ zamiast abstrakcji -> generyczna specjalizacja
+
 
 
 
