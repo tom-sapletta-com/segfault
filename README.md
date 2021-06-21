@@ -86,8 +86,8 @@ Natywne technologie:
 + bash scripts
 + Definicja w JSON
 
-### refaktoryzacja
-Reużycie poprzez zmodularyzowane pojedyncze klasy/funkcje
+### Refaktoryzacja
++ Reużycie poprzez zmodularyzowane pojedyncze klasy/funkcje
 
 ### modularyzacja
 Modularyzacja pozwala na szybkie wdrożenie, dając gwarancję zgodnego, bo natywnego kodu na dekady
@@ -95,10 +95,10 @@ Modularyzacja pozwala na szybkie wdrożenie, dając gwarancję zgodnego, bo naty
 + ominięcie pułapek stojących za frameworkami z ich aktualizacją
 
 ### Standaryzacja
-uproszczenie procesów planowania i programowania
++ uproszczenie procesów planowania i programowania
 
 ### Specjalizacja
-Odpowiedzialnosc, single responsibility
++ Odpowiedzialnosc, single responsibility
 
 ### Personalizacja
 + ładowanie treści, mediów, kodu w zalezności od potrzebu użytkownika
