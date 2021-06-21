@@ -69,31 +69,31 @@ Szybkie budowanie aplikacji prototypów, MVP
 
 ## Korzyści
 Budowanie w rozproszonym środowisku
++ Forma biblioteki a nie frameworka
 + niezależnosć od środowiska i języka (obecnie JS/PHP)
 + cache, ładowanie istniejących modułów
-• ponowne re/użycie zmodualaryzowanych elementów
++ ponowne re/użycie zmodualaryzowanych elementów
 
 ## Technologia, Metodologia
 
 ### Legacy code
-
 Praca z kodem zastanym
 + przejmowanie starych projektów
-+ drobne kosmetyczne zmiany
++ drobne kosmetyczne frontendu vs zmiana środowiska/architektury
 	
 ### refaktoryzacja
-reużycie poprzez zmodularyzowane pojedyncze klasy/funkcje
+Reużycie poprzez zmodularyzowane pojedyncze klasy/funkcje
 
 ### modularyzacja
 Modularyzacja pozwala na szybkie wdrożenie, dając gwarancję zgodnego, bo natywnego kodu na dekady
 + płaską i rozproszoną struktura
 + ominięcie pułapek stojących za frameworkami z ich aktualizacją
 
-z użyciem już napisanego kodu
-forma biblioteki a nie frameworka
+### Standaryzacja
+uproszczenie procesów planowania i programowania
 
-+ Standaryzacja: uproszczenie procesów planowania i programowania
-+ specjalizacja, odpowiedzialnosc, single responsibility
+### Specjalizacja
+Odpowiedzialnosc, single responsibility
 
 
 
