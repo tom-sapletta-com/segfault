@@ -18,7 +18,7 @@ Wizja WebStream-owania promuję również poprzez muzyczne utwór:
 + [guitar - webstream-dev](https://soundcloud.com/softreck/guitar-webstream)
 
 
-[Więcej o muzyce](https://github.com/web-stream/music)
+[Więcej o muzyce, tekście, autorach](https://music.webstream.dev)
 
 Pierwszy zamysł był taki, by dostosować gotowe projekty
 + wsparcie aplikacji z legacy code
