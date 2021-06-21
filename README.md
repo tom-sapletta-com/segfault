@@ -76,6 +76,17 @@ Budowanie w rozproszonym środowisku
 
 ## Technologia, Metodologia
 
+## Biblioteka vs Framework
+
+Biblioteka
++ bez zależności od innych projektów
++ biblioteka nie narzuca formy, pozostawia wolność
+
+Czym różni się sposób działania od popularnych framework-ów?
++ nastawienie na zbudowanie aplikacji i jej publikację
++ zamiast abstrakcji -> generyczna specjalizacja
+
+
 ### Legacy code
 Praca z kodem zastanym:
 + przejmowanie starych projektów
@@ -102,18 +113,6 @@ Modularyzacja pozwala na szybkie wdrożenie, dając gwarancję zgodnego, bo naty
 
 ### Personalizacja
 + ładowanie treści, mediów, kodu w zalezności od potrzebu użytkownika
-
-
-# Biblioteka vs Framework
-
-Biblioteka
-+ bez zależności od innych projektów
-+ biblioteka nie narzuca formy, pozostawia wolność
-
-Czym różni się sposób działania od popularnych framework-ów?
-+ nastawienie na zbudowanie aplikacji i jej publikację
-+ zamiast abstrakcji -> generyczna specjalizacja
-
 
 
 
