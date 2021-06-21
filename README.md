@@ -13,10 +13,10 @@ Skrót prezentacji w temacie:
 
 ## Cel Projektu
 
-Wizja WebStream-woania w muzyce
-
-+ [guitar - webstream-dev](https://soundcloud.com/softreck/guitar-webstream)
+Wizja WebStream-owania promuję również poprzez muzyczne utwór:
 + [Grime, Electronic - webstream-dev](https://soundcloud.com/softreck/webstream-dev)
++ [guitar - webstream-dev](https://soundcloud.com/softreck/guitar-webstream)
+
 
 [Więcej o muzyce](https://github.com/web-stream/music)
 
