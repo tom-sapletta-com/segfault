@@ -13,6 +13,12 @@ Skrót prezentacji w temacie:
 
 ## Cel Projektu
 
+Wizja WebSTream-woania w muzyce
+
++ [guitar - webstream-dev](https://soundcloud.com/softreck/guitar-webstream)
++ [Grime, Electronic - webstream-dev](https://soundcloud.com/softreck/webstream-dev)
+
+
 Pierwszy zamysł był taki, by dostosować gotowe projekty
 + wsparcie aplikacji z legacy code
 + zgodność na dekady -> natywne technologie
