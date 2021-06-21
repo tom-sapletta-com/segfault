@@ -1,4 +1,5 @@
-# segfault / WebStream
+# [segfault / WebStream](https://tom-sapletta-com.github.io/segfault/)
+
 Skrót prezentacji w temacie:
  
 "Streamowanie Interfejsów aplikacji na przykładzie bibliotek: jLoads, jBodys, jRoutes"
