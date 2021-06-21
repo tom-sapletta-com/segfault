@@ -1,0 +1,2 @@
+# segfault
+Skrót prezentacji
