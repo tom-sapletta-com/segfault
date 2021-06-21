@@ -73,6 +73,54 @@ Budowanie w rozproszonym środowisku
 + cache, ładowanie istniejących modułów
 • ponowne re/użycie zmodualaryzowanych elementów
 
+## Technologia, Metodologia
+
+### Legacy code
+
+Praca z kodem zastanym
++ przejmowanie starych projektów
++ drobne kosmetyczne zmiany
+	
+### refaktoryzacja
+reużycie poprzez zmodularyzowane pojedyncze klasy/funkcje
+
+### modularyzacja
+Modularyzacja pozwala na szybkie wdrożenie, dając gwarancję zgodnego, bo natywnego kodu na dekady
++ płaską i rozproszoną struktura
++ ominięcie pułapek stojących za frameworkami z ich aktualizacją
+
+z użyciem już napisanego kodu
+forma biblioteki a nie frameworka
+
++ Standaryzacja: uproszczenie procesów planowania i programowania
++ specjalizacja, odpowiedzialnosc, single responsibility
+
+
+
+
+
+
+Forma
+• Definicja w JSON do 
+
+
+biblioteka
++ bez zależności od innych projektów
++ biblioteka nie narzuca formy, pozostawia wolność
+
+Natywne technologie
++ javascript
++ bash scripts
+
+
+Frameworki
+Czym różni się sposób działania od popularnych framework-ów?
++ nastawienie na zbudowanie aplikacji i jej publikację
++ ładowanie mediów
++ abstrakcja / specjalizacja?
++ zbudowanie aplikacji i jej wydanie
+
+
 
 ---
 + [edit](https://github.com/tom-sapletta-com/segfault/edit/main/README.md)
