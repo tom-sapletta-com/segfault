@@ -13,17 +13,17 @@ Skrót prezentacji w temacie:
 ## Cel Projektu
 
 Pierwszy zamysł był taki, by dostosować gotowe projekty
-	• wsparcie aplikacji z legacy code
-	• zgodność na dekady -> natywne technologie
-	• praca na rożnych środowiskach
-	• praca z wieloma domenami, adresami, portami
++ wsparcie aplikacji z legacy code
++ zgodność na dekady -> natywne technologie
++ praca na rożnych środowiskach
++ praca z wieloma domenami, adresami, portami
 
 Stream-owanie z użyciem protokołu HTTP/s:
-	• continuous deployment
-	• stream-owanie interfejsu aplikacji
++ continuous deployment
++ stream-owanie interfejsu aplikacji
 
 Realizacją idei streamowania interfejsów aplikacji Continuous deployment poprzez streaming interfejsu aplikacji z użyciem protokołu HTTP/s
--> Stay native and react faster!
++ Stay native and react faster!
 
 # Eksperyment 
 czyli nauka przed doświadczanie, trwa do dzisiaj, gdyż projekt jest rozwijany w wielu jezykach jednocześnie, aby zdefiniować granice zastosowań, oraz w celu:
@@ -41,16 +41,16 @@ czyli nauka przed doświadczanie, trwa do dzisiaj, gdyż projekt jest rozwijany 
 
 
 ## natywność
-• zgodność z językiem i architekturą na dekady
-• prosota: Plug & Play
++ zgodność z językiem i architekturą na dekady
++ prosota: Plug & Play
 
 
 ## zwinność
-• Wysokie możliwości modularyzacji w aplikacji
-• Krótszy czas:
-  ○ uruchomienia
-  ○ prototypowania
-  ○ wdrożenia
++ Wysokie możliwości modularyzacji w aplikacji
++ Krótszy czas:
+  + uruchomienia
+  + prototypowania
+  + wdrożenia
 
 
 ## Zastosowanie
