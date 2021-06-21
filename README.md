@@ -10,6 +10,8 @@ Skrót prezentacji w temacie:
 + personalizacja
 + natywność
 + zwinność
++ streamowanie
++ prototypowanie
 
 ## Cel Projektu
 
