@@ -1,10 +1,9 @@
-# segfault
+# segfault / WebStream
 Skrót prezentacji w temacie:
+ 
+"Streamowanie Interfejsów aplikacji na przykładzie bibliotek: jLoads, jBodys, jRoutes"
 
-# WebStream
-Streamowanie Interfejsów aplikacji na przykładzie bibliotek: jLoads, jBodys, jRoutes
-
-TAGI: 
+## TAGI: 
 + decentralizacja
 + modularyzacja
 + personalizacja
@@ -66,3 +65,10 @@ Budowanie w rozproszonym środowisku
 + cache, ładowanie istniejących modułów
 • ponowne re/użycie zmodualaryzowanych elementów
 
+
+---
++ [edit](https://github.com/tom-sapletta-com/segfault/edit/main/README.md)
++ [git](https://github.com/tom-sapletta-com/segfault)
+```
+https://github.com/tom-sapletta-com/segfault.git
+```
